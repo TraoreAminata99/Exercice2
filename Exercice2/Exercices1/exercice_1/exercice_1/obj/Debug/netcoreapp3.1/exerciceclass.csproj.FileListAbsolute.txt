@@ -1,0 +1,11 @@
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\bin\Debug\netcoreapp3.1\exerciceclass.exe
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\bin\Debug\netcoreapp3.1\exerciceclass.deps.json
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\bin\Debug\netcoreapp3.1\exerciceclass.runtimeconfig.json
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\bin\Debug\netcoreapp3.1\exerciceclass.runtimeconfig.dev.json
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\bin\Debug\netcoreapp3.1\exerciceclass.dll
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\bin\Debug\netcoreapp3.1\exerciceclass.pdb
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\obj\Debug\netcoreapp3.1\exerciceclass.csprojAssemblyReference.cache
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\obj\Debug\netcoreapp3.1\exerciceclass.AssemblyInfoInputs.cache
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\obj\Debug\netcoreapp3.1\exerciceclass.AssemblyInfo.cs
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\obj\Debug\netcoreapp3.1\exerciceclass.dll
+C:\Users\TRAORE\Desktop\Exercices1\exercice_1\exercice_1\obj\Debug\netcoreapp3.1\exerciceclass.pdb
